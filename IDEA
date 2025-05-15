@@ -1,0 +1,42 @@
+📚🎬 Proyecto: Apis — Te Recomiendo un Libro
+🧠 Idea Mejorada
+Un sitio donde los usuarios eligen una película o serie que les gustó y la app les recomienda libros similares en tono, trama o estilo. Pero además, los usuarios pueden registrar sus recomendaciones personalizadas, convirtiendo esto en una comunidad de lectores cinéfilos.
+
+🚀 Funcionalidades
+✅ GET
+/movies → Lista de películas y series disponibles para buscar similitudes.
+/recommendations/:movie → Devuelve libros relacionados con esa película.
+/user/:id/recommendations → Muestra recomendaciones hechas por ese usuario.
+
+✍️ POST
+/recommend → Un usuario registrado sugiere un libro para una película específica.
+Input: ID película, título del libro, autor, por qué lo recomienda (motivo o sinopsis breve).
+Almacenás la recomendación en la base de datos.
+
+🔐 Autenticación
+Registro/Login con JWT.
+Cada usuario tiene su perfil con:
+Sus recomendaciones hechas.
+Lista de películas que ya consultó.
+Favoritos.
+Algunos endpoints (como POST /recommend o ver perfil) requieren estar autenticado.
+
+💡 Ejemplo de Uso Creativo
+Usuario ve Inception → elige la película.
+El sistema devuelve libros como Ubik (Philip K. Dick) o Dark Matter (Blake Crouch).
+El usuario dice: “Ey, también leí La Tercera Puerta y me pareció re similar.”
+→ Va a /recommend, lo sube, ¡y queda visible para otros!
+Otros usuarios pueden ver quién recomendó qué y comentar “me gustó” o “no tanto”.
+
+🛠️ Tecnologías Sugeridas
+Frontend: HTML, CSS, JS (Vanilla o React si lo permitís).
+Backend: Node.js + Express.
+Base de datos: MongoDB (ideal para objetos flexibles como libros y usuarios).
+Autenticación: JWT.
+Despliegue: Render o Vercel.
+
+👑 ¿Por qué está bueno?
+Tiene GET y POST bien diferenciados y con propósito real.
+La autenticación le da sentido: creás tu lista de recomendaciones, personalización real.
+Fomenta la interacción sin ser una red social compleja.
+Podés usar una API externa de películas o libros para enriquecer el contenido.
