@@ -1,0 +1,840 @@
+{
+  "books": [
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "bookGenre": "Distopía",
+      "movie": {
+        "title": "V de Venganza",
+        "genre": "Distopía / Acción",
+        "image": "https://www.themoviedb.org/t/p/w1280/yJea98u5qGwRoKlWhUXZw5rUaqo.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71rpa1-kyvL._SL1500_.jpg"
+    },
+    {
+      "title": "Matar a un ruiseñor",
+      "author": "Harper Lee",
+      "bookGenre": "Ficción histórica",
+      "movie": {
+        "title": "The help",
+        "genre": "Drama / Época",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/a2ff733a463ef37c6fa8ccf9fad95a747cf96edc97c55afa14ba176218cb7a49.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81+j6JIEweL._SL1500_.jpg"
+    },
+    {
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "bookGenre": "Romance clásico",
+      "movie": {
+        "title": "Mujercitas (2019)",
+        "genre": "Drama / Época",
+        "image": "https://www.themoviedb.org/t/p/w1280/z2wBWFEQ9FE0RcjmWXz3vvSNPfT.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71OhfiZe7pL._SL1500_.jpg"
+    },
+    {
+      "title": "Cumbres borrascosas",
+      "author": "Emily Brontë",
+      "bookGenre": "Romance gótico",
+      "movie": {
+        "title": "Jane Eyre (2011)",
+        "genre": "Romance gótico",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjU0Mjc0NzU3NF5BMl5BanBnXkFtZTcwMTU4OTkwNA@@._V1_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81qD2OeVlbL._SL1500_.jpg"
+    },
+    {
+      "title": "Rebelión en la granja",
+      "author": "George Orwell",
+      "bookGenre": "Sátira política",
+      "movie": {
+        "title": "The Death of Stalin",
+        "genre": "Sátira política",
+        "image": "https://www.themoviedb.org/t/p/w1280/xZ3dW1ccGWG2M0zQWoc3cZGFRnx.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/919N10xyRtL._SL1500_.jpg"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "bookGenre": "Ciencia ficción",
+      "movie": {
+        "title": "Equilibrium",
+        "genre": "Ciencia ficción / Acción",
+        "image": "https://www.themoviedb.org/t/p/w1280/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/61sKsbPb5GL._SL1500_.jpg"
+    },
+    {
+      "title": "El retrato de Dorian Gray",
+      "author": "Oscar Wilde",
+      "bookGenre": "Ficción gótica",
+      "movie": {
+        "title": "Cisne negro",
+        "genre": "Psicológico / Drama",
+        "image": "https://www.themoviedb.org/t/p/w1280/dZucAEc4JNsO6z4fvvunXgLe3b8.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/61alh38JwGL._SL1000_.jpg"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "bookGenre": "Terror / Ciencia ficción",
+      "movie": {
+        "title": "Edward Scissorhands",
+        "genre": "Fantasía / Romance",
+        "image": "https://www.themoviedb.org/t/p/w1280/vd8tCekihFx82bzmENaASvbhNmx.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81z7E0uWdtL._SL1500_.jpg"
+    },
+    {
+      "title": "Drácula",
+      "author": "Bram Stoker",
+      "bookGenre": "Terror gótico",
+      "movie": {
+        "title": "Entrevista con el vampiro",
+        "genre": "Terror / Fantasía",
+        "image": "https://www.themoviedb.org/t/p/w1280/921DrRqvdnX90grWPkuRnOoko5l.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71lhU-dnJeL._SL1500_.jpg"
+    },
+    {
+      "title": "El gran Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "bookGenre": "Ficción moderna",
+      "movie": {
+        "title": "Carol",
+        "genre": "Drama / Romance",
+        "image": "https://www.themoviedb.org/t/p/w1280/rf04ASAbHIFxsDNkFnjUGNDATVv.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71fOQmxTzSL._SL1500_.jpg"
+    },
+    {
+      "title": "Los juegos del hambre",
+      "author": "Suzanne Collins",
+      "bookGenre": "Distopía / Juvenil",
+      "movie": {
+        "title": "Maze Runner",
+        "genre": "Acción / Distopía",
+        "image": "https://www.themoviedb.org/t/p/w1280/egKi4jZKKVZzR8NaaNjEwMpEgHs.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71BUB4ubNEL._SL1500_.jpg"
+    },
+    {
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "bookGenre": "Fantasía",
+      "movie": {
+        "title": "Percy Jackson",
+        "genre": "Magia / Infancia",
+        "image": "https://es.web.img3.acsta.net/medias/nmedia/18/73/65/80/20051616.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71F0TCvmXfL._SL1500_.jpg"
+    },
+    {
+      "title": "Crónica de una muerte anunciada",
+      "author": "Gabriel García Márquez",
+      "bookGenre": "Realismo mágico",
+      "movie": {
+        "title": "El secreto de sus ojos",
+        "genre": "Drama / Policial",
+        "image": "https://www.themoviedb.org/t/p/w1280/sd6LML87wa9UPZgfuPnGwic82YH.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71iAdi5cehL._SL1500_.jpg"
+    },
+    {
+      "title": "La ladrona de libros",
+      "author": "Markus Zusak",
+      "bookGenre": "Ficción histórica",
+      "movie": {
+        "title": "Jojo Rabbit",
+        "genre": "Comedia / Bélica",
+        "image": "https://www.themoviedb.org/t/p/w1280/jXaQVxmF3ULEoNQA8VX470ZU6Wt.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81EAnGtK8jL._SL1500_.jpg"
+    },
+    {
+      "title": "It (Eso)",
+      "author": "Stephen King",
+      "bookGenre": "Terror",
+      "movie": {
+        "title": "Stranger Things (serie)",
+        "genre": "Terror / Ciencia ficción",
+        "image": "https://www.themoviedb.org/t/p/w1280/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71JVmpGUqhL._SL1500_.jpg"
+    },
+    {
+      "title": "Carrie",
+      "author": "Stephen King",
+      "bookGenre": "Terror / Adolescencia",
+      "movie": {
+        "title": "Jennifer's Body",
+        "genre": "Terror / Comedia negra",
+        "image": "https://www.themoviedb.org/t/p/w1280/1a0sKwS3GUsu5qidhA6raUUNVM9.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/91MhMP9MYeL._SL1500_.jpg"
+    },
+    {
+      "title": "El psicoanalista",
+      "author": "John Katzenbach",
+      "bookGenre": "Thriller psicológico",
+      "movie": {
+        "title": "Secret Window",
+        "genre": "Suspenso / Psicológico",
+        "image": "https://www.themoviedb.org/t/p/w1280/tNPnEp91xKShOIGh1VJgAIXIGT9.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81b9AoaiinL._SL1500_.jpg"
+    },
+    {
+      "title": "El código Da Vinci",
+      "author": "Dan Brown",
+      "bookGenre": "Thriller / Misterio",
+      "movie": {
+        "title": "National Treasure",
+        "genre": "Aventura / Misterio",
+        "image": "https://www.themoviedb.org/t/p/w1280/2c0gn21jGROhZEvdrraXV35mAKd.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/91JV0zjihPL._SL1500_.jpg"
+    },
+    {
+      "title": "Las vírgenes suicidas",
+      "author": "Jeffrey Eugenides",
+      "bookGenre": "Ficción psicológica",
+      "movie": {
+        "title": "Thirteen",
+        "genre": "Drama / Adolescencia",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWVlOWU0NjgtOGY3Yi00MTI2LWEyNDgtNmJlNDRiM2Y2MzFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81iR9sIwqYL._SL1500_.jpg"
+    },
+    {
+      "title": "Tokio Blues",
+      "author": "Haruki Murakami",
+      "bookGenre": "Ficción contemporánea",
+      "movie": {
+        "title": "Lost in Translation",
+        "genre": "Drama / Existencial",
+        "image": "https://www.themoviedb.org/t/p/w1280/ybXq8xTs6VMx3hM4RDYMXaDZwcz.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71LbJuQkvaL._SL1500_.jpg"
+    },
+    {
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "bookGenre": "Realismo mágico",
+      "movie": {
+        "title": "Big Fish",
+        "genre": "Fantasía / Drama",
+        "image": "https://pics.filmaffinity.com/Big_Fish-838287233-large.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71TRa+FTcoL._SL1500_.jpg"
+    },
+    {
+      "title": "La sombra del viento",
+      "author": "Carlos Ruiz Zafón",
+      "bookGenre": "Misterio literario",
+      "movie": {
+        "title": "El lector",
+        "genre": "Drama / Histórico",
+        "image": "https://www.themoviedb.org/t/p/w1280/yTBpNKiogOofKxTSmNorKK7sjYm.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/910zLNcjn6L._SL1500_.jpg"
+    },
+    {
+      "title": "Ensayo sobre la ceguera",
+      "author": "José Saramago",
+      "bookGenre": "Distopía filosófica",
+      "movie": {
+        "title": "Blindness",
+        "genre": "Drama / Ciencia ficción",
+        "image": "https://www.themoviedb.org/t/p/w1280/pIcC108VX2JUxIS3VMxFi6Sfplw.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71Apz4fKcBL._SL1500_.jpg"
+    },
+    {
+      "title": "El alquimista",
+      "author": "Paulo Coelho",
+      "bookGenre": "Fábula espiritual",
+      "movie": {
+        "title": "La vida secreta de Walter Mitty",
+        "genre": "Aventura / Inspiracional",
+        "image": "https://www.themoviedb.org/t/p/w1280/9eE50Pvy1RZXZwR7DN9AK9DiF5Q.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71im8vUOEvL._SL1500_.jpg"
+    },
+    {
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "bookGenre": "Fábula / Filosófico",
+      "movie": {
+        "title": "The Little Prince",
+        "genre": "Infantil  / Aventura",
+        "image": "https://www.themoviedb.org/t/p/w1280/i8gmsOtNe2Zqlj7dqstEprf3w1T.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/615JVMySVwL._SL1500_.jpg"
+    },
+    {
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "bookGenre": "Ficción experimental",
+      "movie": {
+        "title": "Before Sunrise",
+        "genre": "Romance/ Filosófico",
+        "image": "https://www.themoviedb.org/t/p/w1280/h5RWsj7nau49wBTB4T2roE9HCf8.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71eIrBbHcrL._SL1500_.jpg"
+    },
+    {
+      "title": "Pedro Páramo",
+      "author": "Juan Rulfo",
+      "bookGenre": "Realismo mágico",
+      "movie": {
+        "title": "Macario",
+        "genre": "Drama / Místico",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81UdPvR8cwL._SL1500_.jpg"
+    },
+    {
+      "title": "Demian",
+      "author": "Hermann Hesse",
+      "bookGenre": "Ficción iniciática",
+      "movie": {
+        "title": "Dead Poets Society",
+        "genre": "Drama / Adolescencia",
+        "image": "https://www.themoviedb.org/t/p/w1280/lzvt7u7A6oxePzczURHQXEUTXNS.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81xnKDFA7xS._SL1500_.jpg"
+    },
+    {
+      "title": "La metamorfosis",
+      "author": "Franz Kafka",
+      "bookGenre": "Absurdismo / Psicológico",
+      "movie": {
+        "title": "Synecdoche, New York",
+        "genre": "Drama existencial",
+        "image": "https://www.themoviedb.org/t/p/w1280/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71hxfG7XInL._SL1500_.jpg"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "bookGenre": "Romance gótico",
+      "movie": {
+        "title": "Bright Star",
+        "genre": "Romance / Época",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNDgxNF5BMl5BanBnXkFtZTcwMjkyOTM3Mg@@._V1_FMjpg_UX1000_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/61FK6vcK6rL._SL1280_.jpg"
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "León Tolstói",
+      "bookGenre": "Romance trágico",
+      "movie": {
+        "title": "Atonement",
+        "genre": "Romance / Bélico",
+        "image": "https://www.themoviedb.org/t/p/w1280/lGzQYPmmdBZDiIqhhnB7NdZmB2q.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71k4d85sXLL._SL1500_.jpg"
+    },
+    {
+      "title": "Crimen y castigo",
+      "author": "Fiódor Dostoyevski",
+      "bookGenre": "Psicológico / Crimen",
+      "movie": {
+        "title": "First Reformed",
+        "genre": "Suspenso / Drama",
+        "image": "https://www.themoviedb.org/t/p/w1280/vwGXSZAUPguB53fbgm53aUg2Zus.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/91G2sEuVCKS._SL1500_.jpg"
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "bookGenre": "Drama romántico",
+      "movie": {
+        "title": "Carol",
+        "genre": "Drama / Romance",
+        "image": "https://www.themoviedb.org/t/p/w1280/rf04ASAbHIFxsDNkFnjUGNDATVv.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71yKx31qpbL._SL1188_.jpg"
+    },
+    {
+      "title": "El extraño caso del  Dr. Jekyll y Mr. Hyde",
+      "author": "R.L. Stevenson",
+      "bookGenre": "Terror / Psicológico",
+      "movie": {
+        "title": "Fight Club",
+        "genre": "Psicológico / Crimen",
+        "image": "https://www.themoviedb.org/t/p/w1280/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71m9UMPIlyL._SL1280_.jpg"
+    },
+    {
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "bookGenre": "Aventura / Parodia",
+      "movie": {
+        "title": "The Man Who Killed Don Quixote",
+        "genre": "Fantasía / Aventura",
+        "image": "https://www.themoviedb.org/t/p/w1280/5TqXxziTk8zaTE5xzNWdBBzu53J.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71b8re3y3OL._SL1500_.jpg"
+    },
+    {
+      "title": "El Hobbit",
+      "author": "J.R.R. Tolkien",
+      "bookGenre": "Fantasía",
+      "movie": {
+        "title": "Las crónicas de Narnia",
+        "genre": "Fantasía / Aventura",
+        "image": "https://www.themoviedb.org/t/p/w1280/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/91U3Yg8PFDL._SL1500_.jpg"
+    },
+    {
+      "title": "El señor de los anillos",
+      "author": "J.R.R. Tolkien",
+      "bookGenre": "Fantasía épica",
+      "movie": {
+        "title": "Game of Thrones",
+        "genre": "Fantasía épica / Serie",
+        "image": "https://www.themoviedb.org/t/p/w1280/z9gCSwIObDOD2BEtmUwfasar3xs.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/91GGJZ19aEL._SL1500_.jpg"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "bookGenre": "Ciencia ficción épica",
+      "movie": {
+        "title": "Blade Runner 2049",
+        "genre": "Ciencia ficción / Épica",
+        "image": "https://www.themoviedb.org/t/p/w1280/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/91NXYT-nAKL._SL1500_.jpg"
+    },
+    {
+      "title": "Neuromante",
+      "author": "William Gibson",
+      "bookGenre": "Cyberpunk",
+      "movie": {
+        "title": "The Matrix",
+        "genre": "Ciencia ficción / Acción",
+        "image": "https://www.themoviedb.org/t/p/w1280/plYYSxZ9Wdq4thyVSkhJjbjYtVG.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/7148eLrfDiL._SL1500_.jpg"
+    },
+    {
+      "title": "La chica del tren",
+      "author": "Paula Hawkins",
+      "bookGenre": "Thriller psicológico",
+      "movie": {
+        "title": "Gone Girl",
+        "genre": "Thriller psicológico",
+        "image": "https://www.themoviedb.org/t/p/w1280/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/61mXqO8UpgL._SL1500_.jpg"
+    },
+    {
+      "title": "Bajo la misma estrella",
+      "author": "John Green",
+      "bookGenre": "Romance adolescente",
+      "movie": {
+        "title": "Yo antes de ti",
+        "genre": "Drama / Romance",
+        "image": "https://www.themoviedb.org/t/p/w1280/vVIDt9FjuTLbXeuc2mJRYnqMh1F.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71752H58xyL._SL1500_.jpg"
+    },
+    {
+      "title": "El niño con el pijama de rayas",
+      "author": "John Boyne",
+      "bookGenre": "Ficción histórica",
+      "movie": {
+        "title": "La vida es bella",
+        "genre": "Drama / Bélica",
+        "image": "https://www.themoviedb.org/t/p/w1280/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81GF8+S6wfL._SL1500_.jpg"
+    },
+    {
+      "title": "Cometas en el cielo",
+      "author": "Khaled Hosseini",
+      "bookGenre": "Drama familiar",
+      "movie": {
+        "title": "Lion",
+        "genre": "Drama / Aventura",
+        "image": "https://www.themoviedb.org/t/p/w1280/jp0Q2YPjMdJVkVY2cHudit4klFX.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71hkjyonb6L._SL1500_.jpg"
+    },
+    {
+      "title": "Mil soles espléndidos",
+      "author": "Khaled Hosseini",
+      "bookGenre": "Drama / Femenino",
+      "movie": {
+        "title": "Wadjda",
+        "genre": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzMyNzM2Ml5BMl5BanBnXkFtZTgwNDQ5MDgwMDE@._V1_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71dGXojweAL._SL1500_.jpg"
+    },
+    {
+      "title": "La historia interminable",
+      "author": "Michael Ende",
+      "bookGenre": "Fantasía",
+      "movie": {
+        "title": "Bridge to Terabithia",
+        "genre": "Fantasía / Infancia",
+        "image": "https://www.themoviedb.org/t/p/w1280/mL5Tpzxqr9hb5zwbnN3DRzVKyuY.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71184tXDntL._SL1500_.jpg"
+    },
+    {
+      "title": "Coraline",
+      "author": "Neil Gaiman",
+      "bookGenre": "Terror / Fantasía",
+      "movie": {
+        "title": "El laberinto del fauno",
+        "genre": "Fantasía oscura",
+        "image": "https://www.themoviedb.org/t/p/w1280/953ZprqPxXSfhHvjBVRiIv7fSP6.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81lM55DtugL._SL1500_.jpg"
+    },
+    {
+      "title": "La campana de cristal",
+      "author": "Sylvia Plath",
+      "bookGenre": "Ficción psicológica",
+      "movie": {
+        "title": "Girl, Interrupted",
+        "genre": "Drama psicológico",
+        "image": "https://www.themoviedb.org/t/p/w1280/kKBHjBY9RLPyIJaycEdduPj0cjB.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71njsGwMSQL._SL1500_.jpg"
+    },
+    {
+      "title": "El curioso incidente del perro a medianoche",
+      "author": "Mark Haddon",
+      "bookGenre": "Ficción contemporánea",
+      "movie": {
+        "title": "Atypical (serie)",
+        "genre": "Drama / Autismo",
+        "image": "https://media.losandes.com.ar/adjuntos/368/migration/resizer/v2/4XY7SL2SDVFYBC2TMDL2W3IVTY.jpg?auth=9ac0f607cca15ba102ce568af4a35f0d1088f2ff196a7cd58306db8312338e3c&width=810&height=1200"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71gYZZc2H6L._SL1500_.jpg"
+    },
+    {
+      "title": "Un mundo feliz",
+      "author": "Aldous Huxley",
+      "bookGenre": "Distopía",
+      "movie": {
+        "title": "Gattaca",
+        "genre": "Ciencia ficción / Distopía",
+        "image": "https://www.themoviedb.org/t/p/w1280/s0xZH7gybLRtHxMrW4TCTCzPvwE.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/51IoI0zCe8L._SL1000_.jpg"
+    },
+    {
+      "title": "La mujer habitada",
+      "author": "Gioconda Belli",
+      "bookGenre": "Feminismo / Revolución",
+      "movie": {
+        "title": "Thelma & Louise",
+        "genre": "Drama / Crimen",
+        "image": "https://www.themoviedb.org/t/p/w1280/zS4vosCL144152a1hlU2vbiv8cO.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71fCDfMxLiL._SL1500_.jpg"
+    },
+    {
+      "title": "El hombre en busca de sentido",
+      "author": "Viktor Frankl",
+      "bookGenre": "Ensayo / Autobiografía",
+      "movie": {
+        "title": "La lista de Schindler",
+        "genre": "Drama / Bélica",
+        "image": "https://www.themoviedb.org/t/p/w1280/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/9126ob6z1aL._SL1500_.jpg"
+    },
+    {
+      "title": "El túnel",
+      "author": "Ernesto Sabato",
+      "bookGenre": "Thriller psicológico",
+      "movie": {
+        "title": "Enemy",
+        "genre": "Psicológico / Thriller",
+        "image": "https://www.themoviedb.org/t/p/w1280/k8G9Ib4K4uQkh9pPXBGRaQMxCTV.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/813hRxTAh9L._SL1500_.jpg"
+    },
+    {
+      "title": "Crónicas marcianas",
+      "author": "Ray Bradbury",
+      "bookGenre": "Ciencia ficción / Reflexión",
+      "movie": {
+        "title": "The Man Who Fell to Earth",
+        "genre": "Ciencia ficción / Experimental",
+        "image": "https://www.themoviedb.org/t/p/w1280/p1aBjGkyG25ADy4xu69joNMV3eQ.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/91gF0YS+O5L._SL1500_.jpg"
+    },
+    {
+      "title": "El jardín secreto",
+      "author": "Frances Hodgson Burnett",
+      "bookGenre": "Infantil / Misterio",
+      "movie": {
+        "title": "Bridge to Terabithia",
+        "genre": "Fantasía / Infancia",
+        "image": "https://www.themoviedb.org/t/p/w1280/mL5Tpzxqr9hb5zwbnN3DRzVKyuY.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81yxxc8cYpL._SL1500_.jpg"
+    },
+    {
+      "title": "Las crónicas de Narnia",
+      "author": "C.S. Lewis",
+      "bookGenre": "Fantasía",
+      "movie": {
+        "title": "Harry Potter",
+        "genre": "Fantasía / Aventura",
+        "image": "https://www.themoviedb.org/t/p/w1280/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81c4iMWLXIL._SL1500_.jpg"
+    },
+    {
+      "title": "Comer, rezar, amar",
+      "author": "Elizabeth Gilbert",
+      "bookGenre": "Autobiografía / Inspiracional",
+      "movie": {
+        "title": "Bajo el sol de la Toscana",
+        "genre": "Drama / Inspiracional",
+        "image": "https://www.themoviedb.org/t/p/w1280/psphTsxk581co1HLjEzpHdK8atK.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/41X8XLNPMfL.jpg"
+    },
+    {
+      "title": "Nunca me abandones",
+      "author": "Kazuo Ishiguro",
+      "bookGenre": "Distopía emocional",
+      "movie": {
+        "title": "Her",
+        "genre": "Romance / Ciencia ficción",
+        "image": "https://www.themoviedb.org/t/p/w1280/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg"
+      },
+      "bookImage": "https://www.anagrama-ed.es/uploads/media/portadas/0001/25/b36f706e468e304c25e46372c70278a0e23129ca.jpeg"
+    },
+    {
+      "title": "Lo que el viento se llevó",
+      "author": "Margaret Mitchell",
+      "bookGenre": "Romance histórico",
+      "movie": {
+        "title": "Cold Mountain",
+        "genre": "Drama / Épico",
+        "image": "https://www.themoviedb.org/t/p/w1280/mKv7wrVVGg7JNLfOnBomEh0hu1n.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81DrmNuk+hL._SL1500_.jpg"
+    },
+    {
+      "title": "La casa de los espíritus",
+      "author": "Isabel Allende",
+      "bookGenre": "Realismo mágico",
+      "movie": {
+        "title": "Like Water for Chocolate",
+        "genre": "Realismo mágico / Romance",
+        "image": "https://www.themoviedb.org/t/p/w1280/bBToqYouLBaoojtC6AyRNeFcQoV.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81sf9LHQcML._SL1500_.jpg"
+    },
+    {
+      "title": "La biblioteca de la medianoche",
+      "author": "Matt Haig",
+      "bookGenre": "Ficción especulativa",
+      "movie": {
+        "title": "About Time",
+        "genre": "Drama / Fantasía ligera",
+        "image": "https://pics.filmaffinity.com/about_time-988331421-large.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71LZyiacNSL._SL1495_.jpg"
+    },
+    {
+      "title": "El arte de la guerra",
+      "author": "Sun Tzu",
+      "bookGenre": "Ensayo / Estrategia",
+      "movie": {
+        "title": "The Godfather",
+        "genre": "Crimen",
+        "image": "https://www.themoviedb.org/t/p/w1280/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81PyB+ocyHL._SL1500_.jpg"
+    },
+    {
+      "title": "El resplandor",
+      "author": "Stephen King",
+      "bookGenre": "Terror / Suspenso",
+      "movie": {
+        "title": "El sexto sentido",
+        "genre": "Terror / Suspenso",
+        "image": "https://www.themoviedb.org/t/p/w1280/wcnLlfQ2USwvyYbd6XgtNEOQfMT.jpg"
+      },
+      "bookImage": "https://stephenking.es/img/obras/3/cover-grande.jpg"
+    },
+    {
+      "title": "Las aventuras de Tom Sawyer",
+      "author": "Mark Twain",
+      "bookGenre": "Aventuras / Novela juvenil",
+      "movie": {
+        "title": "Stand by Me",
+        "genre": "Aventuras / Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTQ1NGUwNmEtMmFkMy00YTdhLTk5NDAtNjM0MWI0YzA4YjNmXkEyXkFqcGc@._V1_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71ZgqlEsGWL._SL1360_.jpg"
+    },
+    {
+      "title": "La isla del tesoro",
+      "author": "Robert Louis Stevenson",
+      "bookGenre": "Aventuras / Novela juvenil",
+      "movie": {
+        "title": "Piratas del Caribe: La maldición del Perla Negra",
+        "genre": "Aventuras / Fantasía",
+        "image": "https://www.themoviedb.org/t/p/w1280/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81bjMOgG3LL._SL1500_.jpg"
+    },
+    {
+      "title": "20.000 leguas de viaje submarino",
+      "author": "Julio Verne",
+      "bookGenre": "Ciencia ficción / Aventuras",
+      "movie": {
+        "title": "Atlantis: El imperio perdido",
+        "genre": "Animación / Ciencia ficción",
+        "image": "https://www.themoviedb.org/t/p/w1280/uR7AKWMDTwyAub5r4QoPPiJImvx.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/A1PpVhrjgpL._SL1500_.jpg"
+    },
+    {
+      "title": "La vuelta al mundo en 80 días",
+      "author": "Julio Verne",
+      "bookGenre": "Aventuras / Ciencia ficción",
+      "movie": {
+        "title": "Up",
+        "genre": "Animación / Aventura",
+        "image": "https://www.themoviedb.org/t/p/w1280/4UpNg3ejFazDjMZ3g9R56RSRVWD.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71KXtim37wL._SL1360_.jpg"
+    },
+    {
+      "title": "Viaje al centro de la Tierra",
+      "author": "Julio Verne",
+      "bookGenre": "Ciencia ficción / Aventuras",
+      "movie": {
+        "title": "Jumanji: En la selva",
+        "genre": "Aventuras / Fantasía",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWRmZWZlMDctNjUwMS00MmQ5LWJkZjItMmE4OGQ4NDQzZjAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71eAWVX4b0L._SL1499_.jpg"
+    },
+    {
+      "title": "Mujercitas",
+      "author": "Louisa May Alcott",
+      "bookGenre": "Novela clásica / Drama familiar",
+      "movie": {
+        "title": "Brooklyn",
+        "genre": "Drama / Romance",
+        "image": "https://www.themoviedb.org/t/p/w1280/1I8PTNKB4ycreZ5Pgg2a0poSYU3.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81FanUlAdmL._SL1500_.jpg"
+    },
+    {
+      "title": "Alicia en el país de las maravillas",
+      "author": "Lewis Carroll",
+      "bookGenre": "Fantasía / Literatura infantil",
+      "movie": {
+        "title": "El laberinto del fauno",
+        "genre": "Fantasía / Drama",
+        "image": "https://www.themoviedb.org/t/p/w1280/953ZprqPxXSfhHvjBVRiIv7fSP6.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71WNK5+rmOL._SL1186_.jpg"
+    },
+    {
+      "title": "Crepúsculo",
+      "author": "Stephenie Meyer",
+      "bookGenre": "Romance / Fantasía",
+      "movie": {
+        "title": "Hermosas criaturas",
+        "genre": "Romance / Fantasía",
+        "image": "https://www.themoviedb.org/t/p/w1280/fBkaPqZAGgfuTC4bkRrREJQigZF.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/61B1hH3XCJL._SL1500_.jpg"
+    },
+    {
+      "title": "Percy Jackson y el ladrón del rayo",
+      "author": "Rick Riordan",
+      "bookGenre": "Fantasía / Aventuras",
+      "movie": {
+        "title": "Harry Potter y la piedra filosofal",
+        "genre": "Fantasía / Aventuras",
+        "image": "https://www.themoviedb.org/t/p/w1280/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81i9IrRKWrL._SL1500_.jpg"
+    },
+    {
+      "title": "La Odisea",
+      "author": "Homero",
+      "bookGenre": "Épica / Mitología",
+      "movie": {
+        "title": "Life of Pi",
+        "genre": "Aventura / Drama",
+        "image": "https://www.themoviedb.org/t/p/w1280/9jpQ6BRScQmTULj10mUkjEKelhX.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/61O4h3WIM0L._SL1050_.jpg"
+    },
+    {
+      "title": "La Ilíada",
+      "author": "Homero",
+      "bookGenre": "Épica / Mitología",
+      "movie": {
+        "title": "Troy",
+        "genre": "Acción / Bélico",
+        "image": "https://www.themoviedb.org/t/p/w1280/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/61XpAAhBEDL._SL1050_.jpg"
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "bookGenre": "Tragedia / Drama",
+      "movie": {
+        "title": "El rey león",
+        "genre": "Animación / Drama",
+        "image": "https://www.themoviedb.org/t/p/w1280/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/613u0FPvclL.jpg"
+    },
+    {
+      "title": "Romeo y Julieta",
+      "author": "William Shakespeare",
+      "bookGenre": "Tragedia / Romance",
+      "movie": {
+        "title": "Cartas a Julieta",
+        "genre": "Romance / Comedia",
+        "image": "https://www.themoviedb.org/t/p/w1280/f0shQtWiBevTC15dgvADID99k5b.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/71lpakKeKpL._SL1360_.jpg"
+    },
+    {
+      "title": "Oliver Twist",
+      "author": "Charles Dickens",
+      "bookGenre": "Novela social",
+      "movie": {
+        "title": "Les Misérables",
+        "genre": "Musical / Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDUzMDcyZjMtM2M5NC00NGNkLWIxN2YtOTEwODMxNTEzZDU1XkEyXkFqcGc@._V1_.jpg"
+      },
+      "bookImage": "https://m.media-amazon.com/images/I/81AooWB9diL._SL1500_.jpg"
+    }
+  ]
+}
